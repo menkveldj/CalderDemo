@@ -30,7 +30,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0F4A00802AB3B505004AE0DE /* Inspiration4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Inspiration4.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F4A00802AB3B505004AE0DE /* CalderDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalderDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F4A00842AB3B505004AE0DE /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		0F4A00872AB3B505004AE0DE /* Inspiration4App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inspiration4App.swift; sourceTree = "<group>"; };
 		0F4A008F2AB3B506004AE0DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -78,7 +78,7 @@
 		0F4A00812AB3B505004AE0DE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0F4A00802AB3B505004AE0DE /* Inspiration4.app */,
+				0F4A00802AB3B505004AE0DE /* CalderDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -185,9 +185,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0F4A007F2AB3B505004AE0DE /* Inspiration4 */ = {
+		0F4A007F2AB3B505004AE0DE /* CalderDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0F4A00972AB3B506004AE0DE /* Build configuration list for PBXNativeTarget "Inspiration4" */;
+			buildConfigurationList = 0F4A00972AB3B506004AE0DE /* Build configuration list for PBXNativeTarget "CalderDemo" */;
 			buildPhases = (
 				0F4A007C2AB3B505004AE0DE /* Sources */,
 				0F4A007D2AB3B505004AE0DE /* Frameworks */,
@@ -197,12 +197,12 @@
 			);
 			dependencies = (
 			);
-			name = Inspiration4;
+			name = CalderDemo;
 			packageProductDependencies = (
 				0F4A00852AB3B505004AE0DE /* RealityKitContent */,
 			);
 			productName = Inspiration4;
-			productReference = 0F4A00802AB3B505004AE0DE /* Inspiration4.app */;
+			productReference = 0F4A00802AB3B505004AE0DE /* CalderDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -220,7 +220,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0F4A007B2AB3B505004AE0DE /* Build configuration list for PBXProject "Inspiration4" */;
+			buildConfigurationList = 0F4A007B2AB3B505004AE0DE /* Build configuration list for PBXProject "CalderDemo" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -233,7 +233,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0F4A007F2AB3B505004AE0DE /* Inspiration4 */,
+				0F4A007F2AB3B505004AE0DE /* CalderDemo */,
 			);
 		};
 /* End PBXProject section */
@@ -452,7 +452,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0F4A007B2AB3B505004AE0DE /* Build configuration list for PBXProject "Inspiration4" */ = {
+		0F4A007B2AB3B505004AE0DE /* Build configuration list for PBXProject "CalderDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0F4A00952AB3B506004AE0DE /* Debug */,
@@ -461,7 +461,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0F4A00972AB3B506004AE0DE /* Build configuration list for PBXNativeTarget "Inspiration4" */ = {
+		0F4A00972AB3B506004AE0DE /* Build configuration list for PBXNativeTarget "CalderDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0F4A00982AB3B506004AE0DE /* Debug */,
